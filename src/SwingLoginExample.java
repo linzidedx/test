@@ -163,7 +163,7 @@ public class SwingLoginExample {
             	map.put("delivery_area_id" , delivery_area_idText.getText()); //12,#配送区域id（站区id）
             	map.put("company_id" , company_idText.getText()); //3565362,#商户（门店）id
             	map.put("sale_area_id" , sale_area_idText.getText());// 252,#售卖区id
-            	map.put("", "");
+            	map.put("1111", "2222");
             	String str=userText.getText();
             	String city_id = city_idText.getText(); //: 1,//#城市id
             	String warehouse_id = warehouse_idText.getText(); // 45,#商品出库仓库id
